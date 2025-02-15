@@ -1,4 +1,4 @@
-# 🖼️ Python Steganography Project
+# Python Steganography Project
 
 This project implements **image steganography using Python**, allowing users to **hide secret messages inside images** and retrieve them later. It uses the **Least Significant Bit (LSB) technique** to modify pixel values subtly.
 
