@@ -4,18 +4,13 @@ This project implements **image steganography using Python**, allowing users to 
 
 ## 📂 Repository Structure
 
-📁 Steganography
+### 📁 Steganography
 
-stego.py 
-### (Python script for encoding and decoding messages in images)
-mypic.jpg 
-### (Original image before encoding)
-encryptedImage.jpg 
-# Image with the hidden message 
-output_screenshot.png 
-# Screenshot showing the script's execution 
-README.md 
-Documentation for the project
+stego.py (Python script for encoding and decoding messages in images)
+mypic.jpg (Original image before encoding)
+encryptedImage.jpg (Image with the hidden message)
+output_screenshot.png (Screenshot showing the script's execution)
+README.md (Documentation for the project)
 
 ## 🚀 Features
 
@@ -23,3 +18,5 @@ Documentation for the project
 ✔️ Decode and extract the hidden message from an image  
 ✔️ Uses **LSB (Least Significant Bit) steganography**  
 ✔️ Supports **JPG & PNG** image formats  
+
+ 
